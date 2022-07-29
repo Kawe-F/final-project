@@ -1,0 +1,43 @@
+body {
+    background-color: azure;
+}
+h1 { 
+    
+}
+
+h1 :hover {
+    font-size: 40px;
+    cursor: crosshair;
+}
+h2 {
+    
+}
+
+
+
+
+
+
+
+
+
+a :visited {
+    color: green;
+}
+
+
+
+a :hover {
+    color: blueviolet;
+    font-size: 30px;
+    text-decoration: none;
+}
+a :active {
+    background-color: aliceblue;
+}
+li {
+    color: cadetblue;
+}
+li :nth-child(even) {
+    background-color: lightyellow;
+}

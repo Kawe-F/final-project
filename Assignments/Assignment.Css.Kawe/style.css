@@ -1,0 +1,86 @@
+body {
+    background-color: cyan;
+    color: blueviolet;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+}
+
+h1 :hover {
+    font-size: 40px;
+    cursor: crosshair;
+}
+h2 {
+    color: tomato;
+}
+h2 :hover {
+cursor: pointer;
+}
+a {
+    color:hotpink
+}
+a:visited {
+    color:green
+    cursor: crosshair;
+}
+
+
+a:hover {
+    color: blue;
+    font-size: 60px;
+    text-decoration: none;
+}
+
+a:active {
+    background-color: aliceblue;
+}
+
+li {
+    color:cadetblue ;
+}
+
+li :nth-child() {
+    background-color: cornflowerblue;
+    
+}
+:where(main) li :hover {
+    color: red;
+    cursor: progress;
+    font-size: 20px;
+}
+
+.sectiona {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+}
+.sectionb {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+}
+.sectionc {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+}
+.pic {
+    width: auto;
+    margin: 50px 20px;
+    float: right;
+    padding: 50px;;
+}
+.fotos{
+    display: flex;
+}
+.pic-2{
+    margin: auto 0
+    ;
+}

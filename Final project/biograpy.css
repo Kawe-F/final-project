@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin:0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none;
+ }
+ 
+ body {
+    background-color:gainsboro;
+     opacity: 20px;
+     background-image:url(https://p1.storage.canalblog.com/13/33/110219/115360972_o.png);
+     background-size: cover;
+     background-attachment: fixed;
+ }

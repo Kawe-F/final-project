@@ -1,0 +1,72 @@
+body {
+    background-color: cyan;
+    color: blueviolet;
+}
+.mheader{
+    color:brown;
+    background-color: aliceblue;
+    font-size: 50px;
+}
+.hfirst {
+  color:red;
+  background-color: aliceblue;
+  font-size: 40px;  
+}
+
+.unlist1 {
+    font-size: 30px;
+}
+* {
+    box-sizing: border-box;
+}
+.sectiona {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+    font-size: 30px;
+}
+
+
+.sectionb {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+    font-size: 30px;
+}
+.sectionc {
+    border: 10px solid red;
+    border-left: 5px dotted pink;
+    border-right: 5px dotted pink;
+    margin: 5px;
+    padding: 50px;
+    font-size: 30px;
+}
+.pic {
+    width: auto;
+    margin: 50px 20px;
+    float: right;
+    padding: 50px;;
+}
+.fotos{
+    display: flex;
+}
+.pic-2{
+    margin: auto 0
+    ;
+}
+
+.ulist {
+    font-size: 30px;
+}
+
+.hfourth {
+    font-size: 40px;
+}
+.fcontacts {
+    font-size: 30px;
+    color: rgb(70, 150, 150);
+}

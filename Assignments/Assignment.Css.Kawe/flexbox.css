@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(250, 222, 215);
+}
+
+h1 {
+    font-size: 40px;
+}
+.container {
+    background-color: rgb(240, 240, 255);
+    display: flex;
+    height: 600px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+
+.item {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    color: #fff;
+    margin: 10px;
+}
